@@ -1,4 +1,6 @@
-My name is Norah, im a profesional illustrator formed in the School of art and desing, San Telmo; Málaga. Especialiced in character art and storytelling illustration.
-Right now studying 3d Animation.
+Me llamo Norah, soy ilustradora profesional formada en la Escuela de Arte y Diseño San Telmo, en Málaga, especializada en arte de personajes e ilustración narrativa. Actualmente estoy cursando estudios de animación 3D.
 
-I use Unity Engine, coding in C# Some softwares that I use are: Advanced: Procreate, Clip Studio Paint Medium: Blender, Adobe Photoshop, Indesign, After Effect, Ilustrator.
+Utilizo el motor Unity y programo en C#. Algunos de los programas que uso son:
+
+* **Nivel avanzado:** Procreate, Clip Studio Paint
+* **Nivel intermedio:** Blender, Adobe Photoshop, InDesign, After Effects, Illustrator
